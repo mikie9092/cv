@@ -6,6 +6,9 @@ hr{
     margin: 100px auto;
     
 }
+.clearfix{
+    overflow: auto;
+}
 body{
     margin:0;
     text-align: center;
